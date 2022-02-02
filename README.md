@@ -35,7 +35,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-I was using MacOs and XCode for the first time, so it was challenging learning where everything was. However, after looking around, I learned how to use MacOs. 
+
+I was using MacOs and XCode for the first time, so it was challenging learning where everything was. However, after watching tutorials and reading the instructions, I learned how to use MacOs efficiently. After completing this app, I feel more comfortable using XCode for future projects.
 
 ## License
 
